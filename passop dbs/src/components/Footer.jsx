@@ -13,7 +13,7 @@ const Footer = () => {
 
             </div>
             <div className='flex  justify-center items-center'>
-                Created with <img  className='w-5 h-5 mx-2 ' src="heart.png" alt="" />by CodeWithHarry
+                Created with <img  className='w-5 h-5 mx-2 ' src="heart.png" alt="" />by Prathmesh
             </div>
         </div>
 
